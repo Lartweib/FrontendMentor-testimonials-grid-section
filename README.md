@@ -22,8 +22,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Repo](https://github.com/Lartweib/FrontendMentor-QRcode)
-- Live Site URL: [GitHubPage](https://lartweib.github.io/FrontendMentor-QRcode/)
+- Solution URL: [Repo](https://github.com/Lartweib/FrontendMentor-testimonials-grid-section)
+- Live Site URL: [GitHubPage](https://lartweib.github.io/FrontendMentor-testimonials-grid-section/)
 
 ## My process
 
